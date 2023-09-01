@@ -3,7 +3,7 @@ import random
 user_wins = 0
 computer_wins = 0
 
-# variable to reduce redundancies
+# options variable to reduce redundancies
 options =  ["rock", "paper", "scissors"]
 
 while True: 
